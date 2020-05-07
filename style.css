@@ -3,7 +3,7 @@ body {
     font-family: "Times New Roman", Times, serif;
 }
 h1{
-   color:#4CAF50; 
+   color:#4c97af; 
   text-align:center;
 }
 .h1{
@@ -13,7 +13,7 @@ h1{
 }
 #tt{
     position:fixed;
-    color:#4CAF50;
+    color:#4c97af;
     left:40%;
     top:330px;
 }
@@ -25,6 +25,7 @@ h1{
     z-index:1;
     align:center;
 }
+
 select{
     background-color: #4c97af;
     border: none;
@@ -44,7 +45,7 @@ select{
 input{
     width:80px;
     height:80px;
-    background-color:#4CAF50;
+    background-color:#4c97af;
     color:#fff;
     font-size:50px;
 }
@@ -86,21 +87,21 @@ input{
 }
 .p1{
 position:fixed;
- color:#4CAF50;
+ color:#4c97af;
  left:10px;
  top:330px;
  display:none;
 } 
 .p2{
     position:fixed;
-    color:#4CAF50;
+    color:#4c97af;
     right:10px;
     top:330px;
 }
 .r{
      z-index:1;
     top:400px;
-    background-color: #4CAF50;
+    background-color: #4c97af;
 }
 .l{
     top:350px;
@@ -112,7 +113,7 @@ position:fixed;
       color:#000;
 }
 .vote a{
-    color:#4CAF50;
+    color:#4c97af;
 }
 .d{
     z-index:1;
